@@ -1,7 +1,7 @@
 {
   "name": "autoinjector",
   "displayName": "AutoInjector",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "unity": "2018.3",
   "description": "Auto injector for Zenject package",
   "dependencies": {
